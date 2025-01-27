@@ -17,7 +17,7 @@ I aim to leverage my expertise in cloud platforms, security frameworks, and inci
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory (home lab) with Splunk, Kali Linux & Atomic Red Team          |<a href="https://github.com/otarunero/Active-Directory-Splunk-KaliLinux-AtomicRedTeam-/tree/main">AD with Splunk & Atomic Red Team</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -58,6 +58,6 @@ I aim to leverage my expertise in cloud platforms, security frameworks, and inci
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/otarunero/Active-Directory-Splunk-KaliLinux-AtomicRedTeam-/tree/main">AD with Splunk & Atomic Red Team</a>
 - SOC Automation Project
 - Active Directory Lab
