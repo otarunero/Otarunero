@@ -20,9 +20,9 @@ I aim to leverage my expertise in cloud platforms, security frameworks, and inci
 | Active Directory (home lab) with Splunk, Kali Linux & Atomic Red Team          |<a href="https://github.com/otarunero/Active-Directory-Splunk-KaliLinux-AtomicRedTeam-/tree/main">AD with Splunk & Atomic Red Team</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Execution      | |
+| Case Management with TheHive                  | |
+| Scripting and Automation for Threat Mitigation | |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
